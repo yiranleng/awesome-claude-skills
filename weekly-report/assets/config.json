@@ -1,0 +1,16 @@
+{
+  "recipient": {
+    "name": "Ke Wang",
+    "email": "ke.wang@shopee.com",
+    "full_name": "Ke Wang"
+  },
+  "sender": {
+    "name": "Xiaoxu Wu",
+    "email": "xiaoxu.wu@shopee.com",
+    "username": "xiaoxu.wu"
+  },
+  "email": {
+    "subject": "Weekly Report",
+    "template": "email_template.txt"
+  }
+}

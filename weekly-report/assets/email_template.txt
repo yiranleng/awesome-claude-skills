@@ -1,0 +1,18 @@
+Hi Ke Wang,
+
+Below is the weekly report.
+
+**Highlight**:
+
+{highlights}
+
+**Others**:
+
+{others}
+
+**Next Week Plan:**
+
+{next_week}
+
+Thanks,
+Xiaoxu Wu
